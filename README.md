@@ -4,9 +4,11 @@
 
 ## 📲 Installation
 
+```bash
+pip install kubitdb
 ```
-Download kubitdb.py to your home directory
-```
+or
+Download kubitdb.py to your home directory 
 
 ## 🚀 Getting Started
 
