@@ -113,6 +113,6 @@ print(f"Inventory: {db.get('inventory')}")
 
 ---
 
-##### 🐍 [Use the NodeJS Version](https://github.com/DeveloperKubilay/kubitdb)
+### 🟢 [Use the NodeJS Version](https://github.com/DeveloperKubilay/kubitdb)
 
-Made with ❤️ by DeveloperKubilay
+## Made with ❤️ by DeveloperKubilay
